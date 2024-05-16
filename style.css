@@ -10,7 +10,7 @@
 :root {
     --primary-color: #27418b;
     --text-color: #fff;
-    --button-color: #fd7350;
+    --button-color: #ec5731;
     --hero-banner: rgb(227, 123, 36);
     --icon-color: red;
     --icon-font-size: 15px;
@@ -55,7 +55,7 @@ header {
     justify-content: space-between;
     padding: 20px 120px;
     align-items: center;
-    border-bottom: 1px solid black;
+    background-color: #fff;
 }
 
 header img {
